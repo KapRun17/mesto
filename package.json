@@ -1,14 +1,14 @@
 {
   "name": "mesto",
-  "description": "Study project Mesto. Insta killer.",
+  "description": "Project №6",
   "version": "1.0.0",
-  "author": " <astreyajulia@gmail.com>",
+  "author": " <kaprun17@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AstreyaJulia/mesto.git"
+    "url": "git+https://github.com/KapRun17/mesto.git"
   },
-  "homepage": "https://github.com/AstreyaJulia/mesto#readme",
+  "homepage": "https://github.com/KapRun17/mesto.git#readme",
   "scripts": {
     "build": "rimraf dist && webpack --mode production",
     "dev": "webpack serve",
